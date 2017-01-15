@@ -2,4 +2,4 @@
 
 Breadth First Search always gave shortest path as expected.
 
-Report file is also present on git.
+Sample Output file is also present on git.
